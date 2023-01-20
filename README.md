@@ -2,9 +2,9 @@
 
 *A curated list of Links, plugins & resources for all things dev.*
 
-## Shells
+## Placeholder
 
-### Misc Links
+## Misc Links
 * [dev.to](https://dev.to)
 * [CLI Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6) - A collection of 50+ CLI Tools.
 * [Terminals Are Sezy](https://github.com/k4m4/terminals-are-sexy/blob/master/readme.md)
@@ -13,7 +13,7 @@
 * [.filesonGit](https://dotfiles.github.io)
 * [.files tutorial](https://github.com/Lissy93/dotfiles)
 
-### Bash
+## Bash
 
 * [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell.
 * [bash-it](https://github.com/Bash-it/bash-it) - Collection of community Bash commands and scripts.
@@ -46,8 +46,9 @@
 
 ## RasPi
 
+## Networking
 
-#### Awesome
+## Awesome
 
 * [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) - Curated list of delightful Bash scripts and resources.
@@ -56,7 +57,7 @@
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - Collection of ZSH frameworks, plugins & themes.
 
-#### Misc
+## Guides
 
 * [bash-guide](https://github.com/Idnan/bash-guide) - Guide to learn bash.
 * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
