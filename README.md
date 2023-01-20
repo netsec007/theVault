@@ -49,7 +49,7 @@
 
 #### Awesome
 
-* {awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
+* [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) - Curated list of delightful Bash scripts and resources.
 * [awesome-mac](https://github.com/iCHAIT/awesome-macOS) - Awesome list of Macos resources.
 * [awesome-status-pages](https://github.com/Netdog007/f-awesome-status-pages)
