@@ -1,6 +1,6 @@
 # my-links
 
-*A curated list of Links, plugins & resources for all things dev.*
+*A curated list of Links, plugins & resources for all things dev*
 
 ## Placeholder
 
