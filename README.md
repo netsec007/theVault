@@ -10,8 +10,8 @@
 * [Terminals Are Sezy](https://github.com/k4m4/terminals-are-sexy/blob/master/readme.md)
 * [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (Bourne Again SHell).
 * [zsh](https://www.zsh.org/) - Powerful shell with scripting language.
-* [.filesonGit](https://dotfiles.github.io)
-* [.files tutorial](https://github.com/Lissy93/dotfiles)
+* [dot files on Git](https://dotfiles.github.io)
+* [dot files tutorial](https://github.com/Lissy93/dotfiles)
 
 ## Bash
 
@@ -23,7 +23,7 @@
 * [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box.
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - Full-featured & carefully designed adaptive prompt for Bash & Zsh.
 
-### Git
+## Git
 
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy Bash prompt for Git users.
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Collection of useful extra commands for git
