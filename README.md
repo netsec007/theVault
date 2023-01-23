@@ -2,7 +2,7 @@
 
 *A curated list of Links, plugins & resources for all things dev*
 
-## Placeholder
+## Awesomeness  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Misc Links
 * [dev.to](https://dev.to)
