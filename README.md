@@ -1,5 +1,5 @@
 # theVault
-![Logo](https://github.com/netsec007/theVault/blob/main/github_banner_1.jpg?raw=true)
+![Logo](https://raw.githubusercontent.com/netsec007/theVault/main/github_banner_2.jpg)
 
 *A curated list of Links, plugins & resources for all things dev*
 
