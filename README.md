@@ -1,10 +1,9 @@
-![Logo](https://github.com/Netdog007/my-links/blob/c09adc20ac4eb010e908c0051798dddab3979bde/You%20can%20do%20it%20Tumblr%20Banner%20-%20Made%20with%20PosterMyWall-2.jpg)
-
 # theVault
+![Logo](https://github.com/Netdog007/my-links/blob/c09adc20ac4eb010e908c0051798dddab3979bde/You%20can%20do%20it%20Tumblr%20Banner%20-%20Made%20with%20PosterMyWall-2.jpg)
 
 *A curated list of Links, plugins & resources for all things dev*
 
-## Awesomeness  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Misc Links
 * [dev.to](https://dev.to)
