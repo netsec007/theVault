@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/netsec007/theVault/main/github_banner_7.jpg)
+![Logo](https://github.com/netsec007/theVault/blob/9bd0c2133986f7ba7f6b70506a453b9e8dd8b011/images/github_banner_6.jpg)
 
 *A curated list of Links, plugins & resources for all things dev*
 
