@@ -3,7 +3,7 @@
 
 *A curated list of Links, plugins & resources for all things dev*
 
-## Awesome  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## [Awesome](https://github.com/sindresorhus/awesome)
 
 ## Misc Links
 * [dev.to](https://dev.to)
@@ -88,8 +88,6 @@
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
 * [Another Awesome sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - awesome-foss
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - Collection of ZSH frameworks, plugins & themes.
-* 
-* 
 
 ## Guides
 
