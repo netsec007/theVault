@@ -1,5 +1,4 @@
-[![Logo]
-(https://github.com/Netdog007/my-links/blob/c09adc20ac4eb010e908c0051798dddab3979bde/You%20can%20do%20it%20Tumblr%20Banner%20-%20Made%20with%20PosterMyWall-2.jpg)
+[!(https://github.com/Netdog007/my-links/blob/c09adc20ac4eb010e908c0051798dddab3979bde/You%20can%20do%20it%20Tumblr%20Banner%20-%20Made%20with%20PosterMyWall-2.jpg)]
 
 # my-links
 
