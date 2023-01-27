@@ -2,8 +2,6 @@
 
 *A curated list of Links, plugins & resources for all things dev*
 
-*TEST*
-
 ## [Awesome](https://github.com/sindresorhus/awesome)
 
 ## Misc Links
