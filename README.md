@@ -2,7 +2,7 @@
 
 *A curated list of Links, plugins & resources for all things dev*
 
-## [Awesome List](https://github.com/sindresorhus/awesome)
+# [Awesome List](https://github.com/sindresorhus/awesome)
 
 ## Misc Links
 * [dev.to](https://dev.to)
