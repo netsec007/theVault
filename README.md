@@ -102,7 +102,9 @@
 * [Cisco Show Interface Reference](https://networking.ringofsaturn.com/Cisco/showint.php)
 * [Ring Of Saturn](https://networking.ringofsaturn.com/Cisco/showint.php)
 * [CCNA Routing and Switching Workbook](https://www.freeccnaworkbook.com/workbooks/ccna)
+
 ### Cisco Hardware
+
 * [Cisco 4500](https://www.cisco.com/c/en/us/support/switches/catalyst-4500-series-switches/series.html)
 * [Cisco 6800](https://www.cisco.com/c/en/us/support/switches/catalyst-6800-series-switches/series.html)
 * [Cisco 9200](https://www.cisco.com/c/en/us/products/switches/catalyst-9200-series-switches/index.html)
