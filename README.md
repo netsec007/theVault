@@ -5,6 +5,8 @@
 ## [Awesome](https://github.com/sindresorhus/awesome)
 
 ## Misc Links
+* [My Bookmarks](https://sites.google.com/site/bradsbookmarks/home)
+* [PacketBlog](https://bcumbia2.wordpress.com)
 * [dev.to](https://dev.to)
 * [grep.app](https://grep.app)
 * [CLI Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6) - A collection of 50+ CLI Tools.
@@ -77,8 +79,39 @@
 
 ## Networking
 
+* [IpV6 Reference](https://cdn.comparitech.com/wp-content/uploads/2019/06/Nmap-Cheat-Sheet-1.webp)
+* [IPCisco.com](https://ipcisco.com) - Great Cisco Reference Site
+* [AnyCast DNS](http://ddiguru.com/blog/anycast-dns-overview)
+* [Router/Switch Hardware Guide](https://www.router-switch.com/)
+* [TCP and UDP Ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+* [CIDR Chart](http://www.spiritual-machines.org/CIDR.html)
+* [Another CIDR Chart](https://oav.net/mirrors/cidr.html)
+* [Subnet Calculator](https://www.subnet-calculator.com/cidr.php)
+* [Default Network Timers](https://routerjockey.com/2015/08/10/well-known-intervals)
+* [NMAP CheatSheet](https://highon.coffee/blog/nmap-cheat-sheet/)
+* [Another NMAP CheatSheet](https://cdn.comparitech.com/wp-content/uploads/2019/06/Nmap-Cheat-Sheet-1.webp)
+* [Cisco Bug Search Tool](https://bst.cloudapps.cisco.com/bugsearch)
+* [Cisco IOS Master Command Reference](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/mcl/allreleasemcl/all-book.html)
+* [Switchport and Interface Troubleshooting](https://www.cisco.com/c/en/us/support/docs/switches/catalyst-6500-series-switches/12027-53.html)
+* [Ciso Campus Design Guide](https://www.cisco.com/c/en/us/td/docs/solutions/CVD/Campus/cisco-campus-lan-wlan-design-guide.html)
 * [Firewall.cx](https://www.firewall.cx)
 * [PacketLife.net IP Cheatsheets](https://packetlife.net/library/cheat-sheets/)
+* [TheNetworkStack](https://thenetworkstack.com)
+* [Network Engineering @StackExange](https://networkengineering.stackexchange.com)
+* [Router Jockey](https://routerjockey.com)
+* [CiscoZine](https://www.ciscozine.com)
+* [Cisco Is Easy](https://ciscoiseasy.blogspot.com/2022/08/cisco-is-easy-main.html)
+* [Cisco Show Interface Reference](https://networking.ringofsaturn.com/Cisco/showint.php)
+* [Ring Of Saturn](https://networking.ringofsaturn.com/Cisco/showint.php)
+* [CCNA Routing and Switching Workbook](https://www.freeccnaworkbook.com/workbooks/ccna)
+
+* [Cisco 4500](https://www.cisco.com/c/en/us/support/switches/catalyst-4500-series-switches/series.html)
+* [Cisco 6800](https://www.cisco.com/c/en/us/support/switches/catalyst-6800-series-switches/series.html)
+* [Cisco 9200](https://www.cisco.com/c/en/us/products/switches/catalyst-9200-series-switches/index.html)
+* [Cisco 9300](https://www.cisco.com/c/en/us/products/switches/catalyst-9300-series-switches/index.html)
+* [Cisco 9400](https://www.cisco.com/c/en/us/products/switches/catalyst-9400-series-switches/index.html)
+* [Cisco 9500](https://www.cisco.com/c/en/us/products/switches/catalyst-9500-series-switches/index.html)
+* [Cisco 9600](https://www.cisco.com/c/en/us/products/switches/catalyst-9600-series-switches/index.html)
 
 ## Awesome
 
