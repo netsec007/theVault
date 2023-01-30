@@ -12,7 +12,6 @@
 * [CLI Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6) - A collection of 50+ CLI Tools.
 * [Terminals Are Sezy](https://github.com/k4m4/terminals-are-sexy/blob/master/readme.md)
 
-
 * [dot files on Git](https://dotfiles.github.io)
 * [dot files tutorial](https://github.com/Lissy93/dotfiles)
 * [Regex CheatSheet 1](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
