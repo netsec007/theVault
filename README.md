@@ -1,16 +1,16 @@
-![Logo](images/github_banner_6.jpg)
+![Logo](https://github.com/netsec007/theVault/blob/9bd0c2133986f7ba7f6b70506a453b9e8dd8b011/images/github_banner_6.jpg)
 
 *A curated list of Links, plugins & resources for all things dev*
 
-# [Awesome List](https://github.com/sindresorhus/awesome)
+## [Awesome](https://github.com/sindresorhus/awesome)
 
 ## Misc Links
 * [dev.to](https://dev.to)
 * [grep.app](https://grep.app)
 * [CLI Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6) - A collection of 50+ CLI Tools.
 * [Terminals Are Sezy](https://github.com/k4m4/terminals-are-sexy/blob/master/readme.md)
-* [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (Bourne Again SHell).
-* [zsh](https://www.zsh.org/) - Powerful shell with scripting language.
+
+
 * [dot files on Git](https://dotfiles.github.io)
 * [dot files tutorial](https://github.com/Lissy93/dotfiles)
 * [Regex CheatSheet 1](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
@@ -22,19 +22,18 @@
 * [.bashrc Generator](https://bashrcgenerator.com)
 * [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell.
 * [bash-it](https://github.com/Bash-it/bash-it) - Collection of community Bash commands and scripts.
+* [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (Bourne Again SHell).
 * [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script.
 * [bash-sensible](https://github.com/mrzool/bash-sensible) - Attempt at saner Bash defaults.
 * [bashtrap](https://github.com/barryclark/bashstrap) - Quick way to spruce up OSX terminal.
 * [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box.
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - Full-featured & carefully designed adaptive prompt for Bash & Zsh.
+* [zsh](https://www.zsh.org/) - Powerful shell with scripting language.
 
 ## Git
 
-* [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy Bash prompt for Git users.
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Collection of useful extra commands for git
-* [git-prompt](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules.
-* [git-radar](https://github.com/michaeldfallen/git-radar) - Heads up display for git
-* [git-sh](https://github.com/rtomayko/git-sh) - Customized Bash environment suitable for Git work.
+* [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy Bash prompt for Git users.
 * [gittify](https://github.com/momeni/gittify) - Colorful Bash prompt + customized Git aliases.
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) - Opinionated git prompt for bash and zsh.
 * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches.
@@ -47,7 +46,7 @@
 * [HomeLabOS](https://homelabos.com/docs/#available-software)
 * [NGINX Proxy](https://github.com/NginxProxyManager/nginx-proxy-manager)
 * [WireGuard](https://github.com/docker/awesome-compose/tree/master/wireguard)
-* [WeeWx](https://weewx.com) - open source weater station.
+* [WeeWx](https://weewx.com) - open source weather station.
 * [Wetty](https://github.com/butlerx/wetty) - tty over http.
 * [Proxmox](https://www.proxmox.com/en/)
 * [Home Assistant](https://www.awesome-ha.com/)
@@ -55,6 +54,7 @@
 * [MailU](https://mailu.io/) - Self Hosted Mail Server.
 * [Homer](self-hosted-cookbook/homer.md at master · tborychowski/self-hosted-cookbook)
 * [Network Stack](https://github.com/roachfire/roachlab/tree/main/networking)
+* [Glances](https://nicolargo.github.io/glances/)
 
 ## Docker
 
@@ -64,7 +64,7 @@
 * [Docker Cheetsheet 2](https://github.com/eon01/DockerCheatSheet) - Ultimate Docker Cheetsheet.
 * [DockProm](https://github.com/stefanprodan/dockprom) - Docker Container Monitoring.
 * [Docker Monitoring](https://github.com/uschtwill/docker_monitoring_logging_alerting) - Container moniotring-grafana,prom etc.
-* [Glances](https://nicolargo.github.io/glances/)
+
 
 ## RasPi
 
@@ -76,6 +76,9 @@
 * [Grafana & Prometheus on RasPi](https://ducko.uk/installing-grafana-prometheus-via-docker-to-monitor-raspberry-pi-metrics/)
 
 ## Networking
+
+* [Firewall.cx](https://www.firewall.cx)
+* [PacketLife.net IP Cheatsheets](https://packetlife.net/library/cheat-sheets/)
 
 ## Awesome
 
