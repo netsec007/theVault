@@ -2,7 +2,7 @@
 
 *A curated list of resources for all things dev*
 
-## [Awesome](https://github.com/sindresorhus/awesome)
+### [Awesomeness](https://github.com/sindresorhus/awesome)
 
 ## Misc Links
 * [My Bookmarks](https://sites.google.com/site/bradsbookmarks/home)
