@@ -23,7 +23,7 @@ body {
   padding: 0;
   background: $body-background url("../images/bkg.png") 0 0;
   color: $body-foreground;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.5;
   font-family: "Anonymous Pro", Terminus, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
@@ -248,7 +248,7 @@ hr {
 */
 
 a {
-  color: #47bafc;
+  color: #70baff;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
