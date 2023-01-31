@@ -27,7 +27,7 @@
 * [Awesome-dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
 * [.bashrc Generator](https://bashrcgenerator.com)
 * [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell.
-* [bash-it](https://github.com/Bash-it/bash-it) - Collection of community Bash commands and scripts.
+* [bash-it](https://github.com/Bash-it/bash-it) - Community Bash commands and scripts.
 * [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (Bourne Again SHell).
 * [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script.
 * [bash-sensible](https://github.com/mrzool/bash-sensible) - Attempt at saner Bash defaults.
@@ -42,7 +42,7 @@
 * [GitHub](https://github.com)
 * [GitLab](https://gitlab.com)
 * [GitHub readme stats](https://github.com/anuraghazra/github-readme-stats#readme)
-* [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Collection of useful extra commands for git
+* [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Useful extra commands for git
 * [GitHub CheatSheat](https://github.com/tiimgreen/github-cheat-sheet#readme)
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy Bash prompt for Git users.
 * [gittify](https://github.com/momeni/gittify) - Colorful Bash prompt + customized Git aliases.
@@ -128,11 +128,11 @@
 ## Awesome
 
 * [Awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-* [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
-* [awesome-devenv](https://github.com/jondot/awesome-devenv) - Curated list of delightful Bash scripts and resources.
-* [awesome-mac](https://github.com/iCHAIT/awesome-macOS) - Awesome list of Macos resources.
+* [awesome-shell](https://github.com/alebcay/awesome-shell) - Awesome command-line frameworks, toolkits, guides and gizmos.
+* [awesome-devenv](https://github.com/jondot/awesome-devenv) - Delightful Bash scripts and resources.
+* [awesome-mac](https://github.com/iCHAIT/awesome-macOS) - Awesome list of MacOs resources.
 * [awesome-status-pages](https://github.com/Netdog007/f-awesome-status-pages)
-* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - Awesome open source sysadmin resources.
 * [Another Awesome sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - awesome-foss
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - Collection of ZSH frameworks, plugins & themes.
 * [Awesome Ansible](https://github.com/ansible-community/awesome-ansible#readme)
