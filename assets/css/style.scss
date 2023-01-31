@@ -7,7 +7,7 @@
 
 $body-background: $cod-grey !default;
 $body-foreground: $gallery !default;
-$header: #00ff00 !default;
+$header: #02d102 !default;
 $blockquote-color: $silver-chalice !default;
 $blockquote-border: $dove-grey !default;
 $container-max-width: 1000px;
@@ -69,7 +69,7 @@ header h1 {
   margin: 0 0 0 -40px;
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #00ff00;//$header;
+  color: #02d102;//$header;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
@@ -82,7 +82,7 @@ header h1 {
 
 
 header h1:before {
-  content: "./ ";
+  content: "./";
   font-size: 24px;
 }
 
@@ -112,7 +112,7 @@ section img {
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #00ff00;
+  color: #02d102;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
