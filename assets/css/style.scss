@@ -31,7 +31,7 @@ body {
 /* General & 'Reset' Stuff */
 
 .container {
-  width: 90%;
+  width: 95%;
   max-width: $container-max-width;
   margin: 0 auto;
 }
@@ -58,7 +58,7 @@ li {
 header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
-  border-bottom: 1px solid #00ff00; //header;
+  border-bottom: 1px solid #02d102; //header;
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
@@ -66,7 +66,7 @@ header {
 header h1 {
   font-size: 30px;
   line-height: 1.5;
-  margin: 0 0 0 -10px;
+  margin: 0 0 0 -5px;
   font-weight: bold;
   font-family: "Anonymous Pro", Terminus, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: #02d102;//$header;
