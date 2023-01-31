@@ -3,6 +3,9 @@
 *A curated list of resources for all things dev*
 
 * [Awesomeness](https://github.com/sindresorhus/awesome)
+* [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
+* [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
+* [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
 
 ## Misc Links
 * [My Bookmarks](https://sites.google.com/site/bradsbookmarks/home)
@@ -16,9 +19,12 @@
 * [Regex CheatSheet 1](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
 * [Regex Cheatsheet 2](https://www.petefreitag.com/cheatsheets/regex/)
 * [Cheatography](https://cheatography.com) - All the Cheatsheets
+* [AC Outlet/Plug Types](https://www.dropbox.com/s/hahicqyz2n8ibpn/Power%20Plug%20Chart%20and%203560X-3750X%20power%20cable%20Cheatsheet.pdf?dl=0)
 
-## Bash
+## Bash/Shell
 
+* [Awesome-Shell](https://github.com/alebcay/awesome-shell#readme)
+* [Awesome-dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
 * [.bashrc Generator](https://bashrcgenerator.com)
 * [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell.
 * [bash-it](https://github.com/Bash-it/bash-it) - Collection of community Bash commands and scripts.
@@ -32,7 +38,12 @@
 
 ## Git
 
+* [Awesome-GitHub](https://github.com/phillipadsmith/awesome-github#readme)
+* [GitHub](https://github.com)
+* [GitLab](https://gitlab.com)
+* [GitHub readme stats](https://github.com/anuraghazra/github-readme-stats#readme)
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Collection of useful extra commands for git
+* [GitHub CheatSheat](https://github.com/tiimgreen/github-cheat-sheet#readme)
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy Bash prompt for Git users.
 * [gittify](https://github.com/momeni/gittify) - Colorful Bash prompt + customized Git aliases.
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) - Opinionated git prompt for bash and zsh.
@@ -77,6 +88,7 @@
 
 ## Networking
 
+* [LibreNMS Docs](https://docs.librenms.org)
 * [IpV6 Reference](https://cdn.comparitech.com/wp-content/uploads/2019/06/Nmap-Cheat-Sheet-1.webp)
 * [IPCisco.com](https://ipcisco.com) - Great Cisco Reference Site
 * [AnyCast DNS](http://ddiguru.com/blog/anycast-dns-overview)
@@ -123,6 +135,22 @@
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
 * [Another Awesome sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - awesome-foss
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - Collection of ZSH frameworks, plugins & themes.
+* [Awesome Ansible](https://github.com/ansible-community/awesome-ansible#readme)
+* [Awesome-Web-Design](https://github.com/nicolesaidy/awesome-web-design#readme)
+* [Awesome-ReadMe](https://github.com/matiassingers/awesome-readme#readme) - ReadMe
+* [Awesome-Colorful](https://github.com/Siddharth11/Colorful#readme)
+* [Awesome-SNMP](https://github.com/eozer/awesome-snmp#readme)
+* [Awesome-Security](https://github.com/sbilly/awesome-security#readme)
+* [Awesome-CSS](https://github.com/awesome-css-group/awesome-css#readme)
+* [Awesome-CSS-Learning](https://github.com/micromata/awesome-css-learning#readme)
+* [Awesome-fonts](https://github.com/brabadu/awesome-fonts#readme)
+* [Awesome-CodeFace](https://github.com/chrissimpkins/codeface#readme) - Terminal Fonts
+* [Awesome-Docker](https://github.com/veggiemonk/awesome-docker#readme)
+* [Awesome-CloudFlare](https://github.com/irazasyed/awesome-cloudflare#readme)
+* [Awesom-Home-Assistant](https://github.com/frenck/awesome-home-assistant#readme)
+* [Awesome-RasPi](https://github.com/thibmaek/awesome-raspberry-pi#readme)
+
+
 
 ## Guides
 
