@@ -21,8 +21,10 @@
 
 ## Bash/Shell/Terminal
 
-* [Awesome-Shell](https://github.com/alebcay/awesome-shell#readme)
+* [awesome-devenv](https://github.com/jondot/awesome-devenv) - Delightful Bash scripts and resources.
 * [Awesome-dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
+* [awesome-shell](https://github.com/alebcay/awesome-shell) - Awesome command-line frameworks, toolkits, guides and gizmos.
+* [awesome-CodeFace](https://github.com/chrissimpkins/codeface#readme) - Terminal Fonts
 * [dot files on Git](https://dotfiles.github.io)
 * [dot files tutorial](https://github.com/Lissy93/dotfiles)
 * [.bashrc Generator](https://bashrcgenerator.com)
@@ -51,6 +53,9 @@
 
 ## HomeLab
 
+* [awesome-self-hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* [awesome-status-pages](https://github.com/Netdog007/f-awesome-status-pages)
+* [awesom-home-assistant](https://github.com/frenck/awesome-home-assistant#readme)
 * [theHomeLabWiki](https://thehomelab.wiki)
 * [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
 * [Self-hosted Cookbook](https://github.com/tborychowski/self-hosted-cookbook)
@@ -89,6 +94,8 @@
 
 ## Networking
 
+* [awesome-security](https://github.com/sbilly/awesome-security#readme)
+* [awesome-SNMP](https://github.com/eozer/awesome-snmp#readme)
 * [LibreNMS Docs](https://docs.librenms.org)
 * [IpV6 Reference](https://cdn.comparitech.com/wp-content/uploads/2019/06/Nmap-Cheat-Sheet-1.webp)
 * [IPCisco.com](https://ipcisco.com) - Great Cisco Reference Site
@@ -125,6 +132,18 @@
 * [Cisco 9400](https://www.cisco.com/c/en/us/products/switches/catalyst-9400-series-switches/index.html)
 * [Cisco 9500](https://www.cisco.com/c/en/us/products/switches/catalyst-9500-series-switches/index.html)
 * [Cisco 9600](https://www.cisco.com/c/en/us/products/switches/catalyst-9600-series-switches/index.html)
+
+## WebDev
+
+* [awesome-web-design](https://github.com/nicolesaidy/awesome-web-design#readme)
+* [awesome-Colorful](https://github.com/Siddharth11/Colorful#readme)
+* [awesome-CSS](https://github.com/awesome-css-group/awesome-css#readme)
+* [awesome-CSS-Learning](https://github.com/micromata/awesome-css-learning#readme)
+* [awesome-fonts](https://github.com/brabadu/awesome-fonts#readme)
+* [w3schools](https://www.w3schools.com/default.asp) - Learn Web Code
+* [Jekyll](https://jekyllrb.com)
+* [Jekyll Style Guide](https://ben.balter.com/jekyll-style-guide/)
+* [Mozilla Web Resources](https://developer.mozilla.org/en-US/docs/Web)
 
 ## Awesome
 
