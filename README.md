@@ -95,6 +95,9 @@
 ## Networking
 
 * [awesome-security](https://github.com/sbilly/awesome-security#readme)
+* [awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring)
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - Awesome open source sysadmin resources.
+* [another awesome sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - awesome-foss
 * [awesome-SNMP](https://github.com/eozer/awesome-snmp#readme)
 * [LibreNMS Docs](https://docs.librenms.org)
 * [IpV6 Reference](https://cdn.comparitech.com/wp-content/uploads/2019/06/Nmap-Cheat-Sheet-1.webp)
@@ -169,7 +172,8 @@
 * [awesome-CloudFlare](https://github.com/irazasyed/awesome-cloudflare#readme)
 * [awesom-home-assistant](https://github.com/frenck/awesome-home-assistant#readme)
 * [awesome-RasPi](https://github.com/thibmaek/awesome-raspberry-pi#readme)
-
+* [awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring)
+    [Webite](http://canuxcheng.com/awesome-monitoring/)
 
 
 ## Guides
