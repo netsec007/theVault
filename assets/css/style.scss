@@ -23,7 +23,7 @@ body {
   padding: 0;
   background: $body-background url("../images/bkg.png") 0 0;
   color: $body-foreground;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.5;
   font-family: Inconsolata, "Anonymous Pro", Terminus, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
@@ -114,6 +114,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: Inconsolata, "Anonymous Pro", Terminus, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: #02d102;
   letter-spacing: -0.03em;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+                0 0 5px rgba(181, 232, 83, 0.1),
+                0 0 10px rgba(181, 232, 83, 0.1);
 }
 
 #main_content h1 {
