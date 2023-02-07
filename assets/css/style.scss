@@ -23,7 +23,7 @@ body {
   padding: 0;
   background: $body-background url("../images/bkg.png") 0 0;
   color: $body-foreground;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.5;
   font-family: Inconsolata, "Anonymous Pro", Terminus, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
@@ -64,7 +64,7 @@ header {
 }
 
 header h1 {
-  font-size: 20px;
+  font-size: 30px;
   line-height: 1.5;
   margin: 0 0 0 -5px;
   font-weight: bold;
@@ -120,7 +120,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #main_content h1 {
-  font-size: 26px;
+  font-size: 30px;
 }
 
 #main_content h2 {
@@ -128,7 +128,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #main_content h3 {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 #main_content h4 {
@@ -270,4 +270,3 @@ a {
 #a-title {
   text-decoration: none;
 }
-
