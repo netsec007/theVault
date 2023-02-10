@@ -3,6 +3,7 @@
 *A list of resources for all things dev*
 
 ## Quick Links
+
 * [Awesomeness](https://github.com/sindresorhus/awesome)
 * [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
 * [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
@@ -19,6 +20,7 @@
 * [Whatsmyip.org Network Tools](https://www.whatsmyip.org)
 
 ## Misc Links
+
 * [My Bookmarks](https://sites.google.com/site/bradsbookmarks/home)
 * [PacketBlog](https://bcumbia2.wordpress.com)
 * [free-for.dev](https://free-for.dev/#/)
@@ -95,7 +97,6 @@
 * [Docker Cheetsheet 2](https://github.com/eon01/DockerCheatSheet) - Ultimate Docker Cheetsheet.
 * [DockProm](https://github.com/stefanprodan/dockprom) - Docker Container Monitoring.
 * [Docker Monitoring](https://github.com/uschtwill/docker_monitoring_logging_alerting) - Container monitoring-grafana,prom etc.
-
 
 ## RasPi
 
