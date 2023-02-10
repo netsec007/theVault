@@ -1,22 +1,36 @@
 ![Logo](images/github_banner_6.jpg)
 
-*A curated list of resources for all things dev*
+*A list of resources for all things dev*
 
+## Quick Links
 * [Awesomeness](https://github.com/sindresorhus/awesome)
 * [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
 * [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
 * [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
 
+* [CloudFlare Dashboard](https://dash.cloudflare.com)
+* [MynoIP.com](https://my.noip.com)
+* [Tcp/ip Ports - IANA](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)
+* [ARUL's Network Lookup Utilities](https://aruljohn.com)
+* [IP Address Lookup](https://www.ipaddress.com/ip-lookup)
+* [MAC Address Lookup](https://maclookup.app)
+* [NsLookup.io](https://www.nslookup.io)
+* [DNSChecker.org](https://dnschecker.org)
+* [Whatsmyip.org Network Tools](https://www.whatsmyip.org)
+
 ## Misc Links
 * [My Bookmarks](https://sites.google.com/site/bradsbookmarks/home)
 * [PacketBlog](https://bcumbia2.wordpress.com)
+* [free-for.dev](https://free-for.dev/#/)
 * [dev.to](https://dev.to)
 * [grep.app](https://grep.app)
+* [Modern Linux Tools](https://github.com/ibraheemdev/modern-unix)
 * [CLI Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6) - A collection of 50+ CLI Tools.
 * [Terminals Are Sezy](https://github.com/k4m4/terminals-are-sexy/blob/master/readme.md)
 * [Regex CheatSheet 1](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
 * [Regex Cheatsheet 2](https://www.petefreitag.com/cheatsheets/regex/)
 * [Cheatography](https://cheatography.com) - All the Cheatsheets
+* [Secure and fast GitHub Pages with CloudFlare](https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/)
 * [AC Outlet/Plug Types](https://www.dropbox.com/s/hahicqyz2n8ibpn/Power%20Plug%20Chart%20and%203560X-3750X%20power%20cable%20Cheatsheet.pdf?dl=0)
 
 ## Bash/Shell/Terminal
