@@ -4,6 +4,7 @@
 
 ## Quick Links
 
+* [theNetworkStack](https://thenetworkstack.com/tag/cisco/)
 * [StackExchange](https://stackexchange.com/sites)
 * [Awesomeness](https://github.com/sindresorhus/awesome)
 * [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
@@ -28,6 +29,7 @@
 * [My Bookmarks](https://sites.google.com/site/bradsbookmarks/home)
 * [PacketBlog](https://bcumbia2.wordpress.com)
 * [free-for.dev](https://free-for.dev/#/)
+* [Medium](https://medium.com)
 * [dev.to](https://dev.to)
 * [grep.app](https://grep.app)
 * [Modern Linux Tools](https://github.com/ibraheemdev/modern-unix)
