@@ -6,7 +6,7 @@
 
 * [theNetworkStack](https://thenetworkstack.com/)
 * [StackExchange](https://stackexchange.com/sites)
-* [Network Eng on StackExchange](https://networkengineering.stackexchange.com)
+* [Network Eng/StackExchange](https://networkengineering.stackexchange.com)
 * [Awesomeness](https://github.com/sindresorhus/awesome)
 * [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
 * [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
