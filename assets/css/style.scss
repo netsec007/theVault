@@ -243,15 +243,34 @@ hr {
   background: url("../images/blacktocat.png") 0 0 no-repeat;
 }
 
- Links
+/* Links
 a, a:link { 
   text-decoration: none; 
-}
+}*/
 
 
-a {
+a:link {
   color: #70baff;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  text-decoration: none;
+}
+
+a:visited {
+  color: #70baff;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  text-decoration: none;
+}
+  
+a:hover {
+  color: #70baff;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  text-decoration: underline;
+}
+    
+a:active {
+  color: #70baff;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  text-decoration: underline;
 }
 
 /* Clearfix */
