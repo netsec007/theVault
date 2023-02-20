@@ -1,4 +1,4 @@
-![Logo](images/github_banner_17.jpg)
+![Logo](images/github_banner_19.jpg)
 
 *A list of resources for all things dev*
 
