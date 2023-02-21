@@ -38,6 +38,7 @@
 * [Terminals Are Sezy](https://github.com/k4m4/terminals-are-sexy/blob/master/readme.md)
 * [Regex CheatSheet 1](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
 * [Regex Cheatsheet 2](https://www.petefreitag.com/cheatsheets/regex/)
+* [VIM Basic Commands](https://m4xshen.me/posts/vim-basic-commands/)
 * [Cheatography](https://cheatography.com) - All the Cheatsheets
 * [Secure and fast GitHub Pages with CloudFlare](https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/)
 * [AC Outlet/Plug Types](https://www.dropbox.com/s/hahicqyz2n8ibpn/Power%20Plug%20Chart%20and%203560X-3750X%20power%20cable%20Cheatsheet.pdf?dl=0)
@@ -67,6 +68,7 @@
 * [GitHub](https://github.com)
 * [GitLab](https://gitlab.com)
 * [GitHub readme stats](https://github.com/anuraghazra/github-readme-stats#readme)
+* [ReadMe Generator](https://www.colorsandfonts.com)
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Useful extra commands for git
 * [GitHub CheatSheat](https://github.com/tiimgreen/github-cheat-sheet#readme)
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy Bash prompt for Git users.
@@ -166,6 +168,7 @@
 * [awesome-CSS-Learning](https://github.com/micromata/awesome-css-learning#readme)
 * [awesome-fonts](https://github.com/brabadu/awesome-fonts#readme)
 * [w3schools](https://www.w3schools.com/default.asp) - Learn Web Code
+* [ColorsAndFonts](https://www.colorsandfonts.com)
 * [Jekyll](https://jekyllrb.com)
 * [Jekyll Style Guide](https://ben.balter.com/jekyll-style-guide/)
 * [Mozilla Web Resources](https://developer.mozilla.org/en-US/docs/Web)
@@ -195,7 +198,7 @@
 * [awesom-home-assistant](https://github.com/frenck/awesome-home-assistant#readme)
 * [awesome-RasPi](https://github.com/thibmaek/awesome-raspberry-pi#readme)
 * [awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring)
-    [Webite](http://canuxcheng.com/awesome-monitoring/)
+* [awesome-moniotring-2](http://canuxcheng.com/awesome-monitoring/)
 
 
 ## Guides
