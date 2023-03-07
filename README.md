@@ -52,6 +52,7 @@
 * [dot files on Git](https://dotfiles.github.io)
 * [dot files tutorial](https://github.com/Lissy93/dotfiles)
 * [.bashrc Generator](https://bashrcgenerator.com)
+* [Oh-My-Bash](https://ohmybash.nntoan.com)
 * [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell.
 * [bash-it](https://github.com/Bash-it/bash-it) - Community Bash commands and scripts.
 * [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (Bourne Again SHell).
