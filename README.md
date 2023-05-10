@@ -4,6 +4,8 @@
 
 ## Quick Links
 
+* [ChaptGPT](chat.openai.com)
+* [Awesome-ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)
 * [theNetworkStack](https://thenetworkstack.com/)
 * [StackExchange](https://stackexchange.com/sites)
 * [Network Eng/StackExchange](https://networkengineering.stackexchange.com)
@@ -12,6 +14,8 @@
 * [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
 * [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
 * [Linux Cheat Sheet](https://dev.to/rajani103/linux-cheat-sheet-1ied)
+* [the book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+* [devdocs.io](https://devdocs.io)
 
 ### DNS Tools
 
@@ -30,6 +34,7 @@
 
 * [My Bookmarks](https://sites.google.com/site/bradsbookmarks/home)
 * [PacketBlog](https://bcumbia2.wordpress.com)
+* [ShellCheck](https://www.shellcheck.net)
 * [free-for.dev](https://free-for.dev/#/)
 * [Medium](https://medium.com)
 * [dev.to](https://dev.to)
@@ -43,6 +48,21 @@
 * [Cheatography](https://cheatography.com) - All the Cheatsheets
 * [Secure and fast GitHub Pages with CloudFlare](https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/)
 * [AC Outlet/Plug Types](https://www.dropbox.com/s/hahicqyz2n8ibpn/Power%20Plug%20Chart%20and%203560X-3750X%20power%20cable%20Cheatsheet.pdf?dl=0)
+
+## CheatSheets
+
+* [Python](https://www.pythoncheatsheet.org/)
+* [Markdown](https://www.markdownguide.org/cheat-sheet/)
+* [Git](https://education.github.com/git-cheat-sheet-education.pdf)
+* [Docker](https://dockerlabs.collabnix.com/docker/cheatsheet/)
+* [Linux Directory Structure](https://dev.to/tiffanie_boreux/linux-cheatsheet-directory-structure-and-important-files-paths-4ke6)
+* [Linux Command Line](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
+* [Linux Cheat Sheet](https://dev.to/rajani103/linux-cheat-sheet-1ied)
+* [RegEx](https://www.rexegg.com/regex-quickstart.html)
+* [Linux/Unix Permission](https://www.thegeekdiary.com/linux-file-directory-permissions-cheat-sheet/)
+* [ChatGPT](https://quickref.me/chatgpt.html)
+* [TheList](https://dev.to/jon_snow789/introducing-50-carefully-curated-cheat-sheets-youll-ever-need-32fj)
+* [OverAPI](https://overapi.com) - Collecting All The Cheat Sheets
 
 ## Bash/Shell/Terminal
 
@@ -70,7 +90,7 @@
 * [GitHub](https://github.com)
 * [GitLab](https://gitlab.com)
 * [GitHub readme stats](https://github.com/anuraghazra/github-readme-stats#readme)
-* [ReadMe Generator](https://www.colorsandfonts.com)
+* [ReadMe Generator](https://readme.so)
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Useful extra commands for git
 * [GitHub CheatSheat](https://github.com/tiimgreen/github-cheat-sheet#readme)
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy Bash prompt for Git users.
@@ -171,6 +191,7 @@
 * [awesome-fonts](https://github.com/brabadu/awesome-fonts#readme)
 * [w3schools](https://www.w3schools.com/default.asp) - Learn Web Code
 * [ColorsAndFonts](https://www.colorsandfonts.com)
+* [design resources for developers](https://github.com/bradtraversy/design-resources-for-developers)
 * [Jekyll](https://jekyllrb.com)
 * [Jekyll Style Guide](https://ben.balter.com/jekyll-style-guide/)
 * [Mozilla Web Resources](https://developer.mozilla.org/en-US/docs/Web)
@@ -180,6 +201,7 @@
 * [awesome-self-hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [awesome-shell](https://github.com/alebcay/awesome-shell) - Awesome command-line frameworks, toolkits, guides and gizmos.
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) - Delightful Bash scripts and resources.
+* [Awesome-ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)
 * [awesome-mac](https://github.com/iCHAIT/awesome-macOS) - Awesome list of MacOs resources.
 * [awesome-status-pages](https://github.com/Netdog007/f-awesome-status-pages)
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - Awesome open source sysadmin resources.
