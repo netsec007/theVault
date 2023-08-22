@@ -4,6 +4,7 @@
 
 ## Quick Links
 
+* [My Starred Repos](https://netsec007.github.io/my-awesome-stars/)
 * [ChaptGPT](chat.openai.com)
 * [Awesome-ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)
 * [theNetworkStack](https://thenetworkstack.com/)
