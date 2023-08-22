@@ -189,6 +189,8 @@
 * [awesome-CSS](https://github.com/awesome-css-group/awesome-css#readme)
 * [awesome-CSS-Learning](https://github.com/micromata/awesome-css-learning#readme)
 * [awesome-fonts](https://github.com/brabadu/awesome-fonts#readme)
+* [dashboard-icons](https://github.com/walkxcode/dashboard-icons/blob/main/ICONS.md)
+* [icon-buddy](https://iconbuddy.app/logos)
 * [w3schools](https://www.w3schools.com/default.asp) - Learn Web Code
 * [ColorsAndFonts](https://www.colorsandfonts.com)
 * [design resources for developers](https://github.com/bradtraversy/design-resources-for-developers)
