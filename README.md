@@ -5,6 +5,7 @@
 ## Quick Links
 
 * [My Starred Repos](https://netsec007.github.io/my-awesome-stars/)
+* [Cisco Gems](https://github.com/netsec007/cisco-gems)  - Cisco Commands
 * [ChaptGPT](chat.openai.com)
 * [Awesome-ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)
 * [theNetworkStack](https://thenetworkstack.com/)
