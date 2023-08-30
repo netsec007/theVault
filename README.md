@@ -1,7 +1,8 @@
 ![Logo](images/github_banner_19.jpg)
 
 *A list of resources for all things dev*
-* [SlackBlueTide.com](https://slackbluetide.com)
+
+[WebSite](https://slackbluetide.com)
 
 ## Quick Links
 
