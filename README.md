@@ -2,7 +2,7 @@
 
 *A list of resources for all things dev*
 
-[WebSite](https://slackbluetide.com)
+[WebSite](https://www.slackbluetide.com)
 
 ## Quick Links
 
