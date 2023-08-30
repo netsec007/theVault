@@ -19,7 +19,7 @@
 * [Linux Cheat Sheet](https://dev.to/rajani103/linux-cheat-sheet-1ied)
 * [the book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [devdocs.io](https://devdocs.io)
-* [ShieldUp](https://www.grc.com/shieldsup) - Internet security vulnerability profiling services
+* [ShieldsUp](https://www.grc.com/shieldsup) - Internet security vulnerability profiling services
 
 ### DNS Tools
 
