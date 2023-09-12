@@ -40,7 +40,7 @@
 * [Whatsmyip.org Network Tools](https://www.whatsmyip.org)
 
 * [Hosts file for ad/spyware blocking](https://someonewhocares.org/hosts/)
-* 
+
 ## Misc Links
 
 * [My Bookmarks](https://sites.google.com/site/bradsbookmarks/home)
