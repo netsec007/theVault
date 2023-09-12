@@ -38,7 +38,6 @@
 * [NsLookup.io](https://www.nslookup.io)
 * [DNSChecker.org](https://dnschecker.org)
 * [Whatsmyip.org Network Tools](https://www.whatsmyip.org)
-
 * [Hosts file for ad/spyware blocking](https://someonewhocares.org/hosts/)
 
 ## Misc Links
