@@ -4,6 +4,8 @@
 
 [WebSite](https://www.slackbluetide.com)
 [![Website][website-badge]]
+[website-badge]: https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=white&logo=google-chrome
+[website]: https://www.slackbluetide.com
 
 ## Quick Links
 
