@@ -2,9 +2,11 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> *Welcome*
 
+[![GitHub][github-badge]][github]
 [![Website][website-badge]][website]
-[WebSite](https://www.slackbluetide.com)
 
+[github-badge]: https://img.shields.io/badge/GitHub-black?style=for-the-badge&logoColor=white&logo=github
+[github]: https://github.com/netsec007
 [website-badge]: https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=white&logo=google-chrome
 [website]: https://www.slackbluetide.com
 
