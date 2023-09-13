@@ -1,7 +1,6 @@
 ![Logo](images/github_banner_19.jpg)
 
-*A list of resources for all things dev*
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Hello there
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> *Hello there*
 
 [WebSite](https://www.slackbluetide.com)
 
