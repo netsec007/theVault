@@ -5,7 +5,7 @@
 [![GitHub][github-badge]][github]
 [![Website][website-badge]][website]
 
-[github-badge]: https://img.shields.io/badge/GitHub-black?style=for-the-badge&logoColor=white&logo=github
+[github-badge]: https://img.shields.io/badge/GitHub-black?style=for-the-badge&logoColor=green&logo=github
 [github]: https://github.com/netsec007
 [website-badge]: https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=white&logo=google-chrome
 [website]: https://www.slackbluetide.com
