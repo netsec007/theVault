@@ -2,8 +2,9 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> *Welcome*
 
+[![Website][website-badge]][website]
 [WebSite](https://www.slackbluetide.com)
-[![Website][website-badge]]
+
 [website-badge]: https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=white&logo=google-chrome
 [website]: https://www.slackbluetide.com
 
