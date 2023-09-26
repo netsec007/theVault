@@ -25,7 +25,9 @@
 * [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
 * [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
 * [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
-* [Cron Cheat Shhet](https://healthchecks.io/docs/cron/)
+* [Cron Cheat Sheet](https://healthchecks.io/docs/cron/)
+* [Crontab Guru](https://crontab.guru/every-4-hours)
+* [Cron Configuration](https://www.redhat.com/sysadmin/linux-cron-command)
 * [Linux Cheat Sheet](https://dev.to/rajani103/linux-cheat-sheet-1ied)
 * [Linux Man Pages](https://man7.org/linux/man-pages/index.html)
 * [the book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
