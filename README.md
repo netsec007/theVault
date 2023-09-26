@@ -30,6 +30,7 @@
 * [Cron Configuration](https://www.redhat.com/sysadmin/linux-cron-command)
 * [Linux Cheat Sheet](https://dev.to/rajani103/linux-cheat-sheet-1ied)
 * [Linux Man Pages](https://man7.org/linux/man-pages/index.html)
+* [GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [the book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [devdocs.io](https://devdocs.io)
 * [ShieldsUp](https://www.grc.com/shieldsup) - Internet security vulnerability profiling services
