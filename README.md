@@ -37,7 +37,7 @@
 * [Breach Directory](https://breachdirectory.org)
 * [HaveIbeenPwned?](https://haveibeenpwned.com)
 
-### DNS Tools
+#### DNS Tools
 
 * [CloudFlare Dashboard](https://dash.cloudflare.com)
 * [ShoDan](www.showdan.io) - Internet intelligence
