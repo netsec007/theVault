@@ -49,8 +49,13 @@
 * [NsLookup.io](https://www.nslookup.io)
 * [DNSChecker.org](https://dnschecker.org)
 * [Whatsmyip.org Network Tools](https://www.whatsmyip.org)
+
+#### DNS Blocklists
+
 * [Hosts file for ad/spyware blocking](https://someonewhocares.org/hosts/)
 * [FireBlog](https://firebog.net) - The BIG Blocklist Collection
+* [Dns Blocklists](https://github.com/hagezi/dns-blocklists)
+* [oisd.nl](https://oisd.nl) - Another Blocklist
 
 ## Misc Links
 
