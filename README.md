@@ -3,12 +3,14 @@
 
 
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> [![GitHub][github-badge]][github] [![Website][website-badge]][website]
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> [![GitHub][github-badge]][github] [![Website][website-badge]][website] [![Website2][website-badge2]][website2]
 
 [github-badge]: https://img.shields.io/badge/GitHub-black?style=for-the-badge&logoColor=green&logo=github
 [github]: https://github.com/netsec007/theVault
 [website-badge]: https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=blue&logo=microsoftedge
 [website]: https://www.slackbluetide.com
+[website-badge2]: https://img.shields.io/badge/CiscoGems-purple?style=for-the-badge&logoColor=blue&logo=cisco&style=plastic
+[website2]: https://netsec007.github.io/cisco-gems/
 
 ## Quick Links
 
