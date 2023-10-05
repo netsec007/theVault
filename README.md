@@ -1,13 +1,15 @@
 ![Logo](images/github_banner_19.jpg) <A HREF="http://www.InternetTrafficReport.com/">
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> [![GitHub][github-badge]][github] [![Website][website-badge]][website] [![Website4][website-badge4]][website4] [![Website2][website-badge2]][website2] [![Website3][website-badge3]][website3]
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> [![GitHub][github-badge]][github] [![Website][website-badge]][website] [![Website4][website-badge4]][website4] [![Website5][website-badge5]][website5] [![Website2][website-badge2]][website2] [![Website3][website-badge3]][website3]
 
 [github-badge]: https://img.shields.io/badge/GitHub-black?style=for-the-badge&logoColor=blueviolet&logo=github
 [github]: https://github.com/netsec007
 [website-badge]: https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=blue&logo=microsoftedge
 [website]: https://www.slackbluetide.com
 [website-badge4]: https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=B717BC
-[website4]: http://google.com
+[website4]: mailto:admin@slackbluetide.com
+[website-badge5]: https://img.shields.io/badge/Reddit-black?style=for-the-badge&logoColor=orange&logo=reddit
+[website5]: https://reddit.com
 [website-badge2]: https://img.shields.io/badge/CISCO_GEMS-black?style=for-the-badge&logoColor=brightgreen&logo=cisco
 [website2]: https://netsec007.github.io/cisco-gems/
 [website-badge3]: https://img.shields.io/badge/CF_Radar-black?style=for-the-badge&logoColor=orange&logo=cloudflare
