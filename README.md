@@ -1,11 +1,12 @@
 ![Logo](images/github_banner_19.jpg) <A HREF="http://www.InternetTrafficReport.com/">
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> [![GitHub][github-badge]][github] [![Website][website-badge]][website] [![Website2][website-badge2]][website2] [![Website3][website-badge3]][website3]
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> [![GitHub][github-badge]][github] [![Website][website-badge]][website] [![Website4][website-badge4]][website4] ![Website2][website-badge2]][website2] [![Website3][website-badge3]][website3]
 
 [github-badge]: https://img.shields.io/badge/GitHub-black?style=for-the-badge&logoColor=purple&logo=github
 [github]: https://github.com/netsec007
 [website-badge]: https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=blue&logo=microsoftedge
 [website]: https://www.slackbluetide.com
+[website-badge4]: https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 [website-badge2]: https://img.shields.io/badge/CISCOGEMS-black?style=for-the-badge&logoColor=green&logo=cisco
 [website2]: https://netsec007.github.io/cisco-gems/
 [website-badge3]: https://img.shields.io/badge/CF_Radar-black?style=for-the-badge&logoColor=orange&logo=cloudflare
