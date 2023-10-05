@@ -8,7 +8,7 @@
 [website]: https://www.slackbluetide.com
 [website-badge4]: https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white
 [website4]: http://google.com
-[website-badge2]: https://img.shields.io/badge/CISCOGEMS-black?style=for-the-badge&logoColor=green&logo=cisco
+[website-badge2]: https://img.shields.io/badge/CISCO_GEMS-black?style=for-the-badge&logoColor=green&logo=cisco
 [website2]: https://netsec007.github.io/cisco-gems/
 [website-badge3]: https://img.shields.io/badge/CF_Radar-black?style=for-the-badge&logoColor=orange&logo=cloudflare
 [website3]: https://radar.cloudflare.com/
