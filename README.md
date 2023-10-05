@@ -1,9 +1,9 @@
-![Logo](images/github_banner_19.jpg)
+![Logo](images/github_banner_19.jpg) <A HREF="http://www.InternetTrafficReport.com/">
+<IMG ALT="The Internet Traffic Report monitors the flow of data around the world. It then displays a value between zero and 100. Higher values indicate faster and more reliable connections." SRC="http://www.InternetTrafficReport.com/itr-clean.gif" WIDTH="125" HEIGHT="89" BORDER="0"> </A>
 
 
 
-
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> [![GitHub][github-badge]][github] [![Website][website-badge]][website] [![Website2][website-badge2]][website2]
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> [![GitHub][github-badge]][github] [![Website][website-badge]][website] [![Website2][website-badge2]][website2] [![Website3][website-badge3]][website3]
 
 [github-badge]: https://img.shields.io/badge/GitHub-black?style=for-the-badge&logoColor=purple&logo=github
 [github]: https://github.com/netsec007/theVault
@@ -11,8 +11,9 @@
 [website]: https://www.slackbluetide.com
 [website-badge2]: https://img.shields.io/badge/CISCOGEMS-black?style=for-the-badge&logoColor=green&logo=cisco
 [website2]: https://netsec007.github.io/cisco-gems/
-<A HREF="http://www.InternetTrafficReport.com/">
-<IMG ALT="The Internet Traffic Report monitors the flow of data around the world. It then displays a value between zero and 100. Higher values indicate faster and more reliable connections." SRC="http://www.InternetTrafficReport.com/itr-clean.gif" WIDTH="125" HEIGHT="89" BORDER="0"> </A>
+[website-badge3]: https://img.shields.io/badge/Cloudflare Radar-black?style=for-the-badge&logoColor=green&logo=cloudflare
+[website3]: https://radar.cloudflare.com
+
 
 ## Quick Links
 
