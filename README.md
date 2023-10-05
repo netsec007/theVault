@@ -11,8 +11,8 @@
 [website]: https://www.slackbluetide.com
 [website-badge2]: https://img.shields.io/badge/CISCOGEMS-black?style=for-the-badge&logoColor=green&logo=cisco
 [website2]: https://netsec007.github.io/cisco-gems/
-[website-badge3]: https://img.shields.io/badge/Cloudflare Radar-black?style=for-the-badge&logoColor=green&logo=cloudflare
-[website3]: https://radar.cloudflare.com
+[website-badge3]: https://img.shields.io/badge/CloudflareRadar-black?style=for-the-badge&logoColor=green&logo=cloudflare
+[website3]: https://radar.cloudflare.com/
 
 
 ## Quick Links
