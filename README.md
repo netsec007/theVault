@@ -12,8 +12,8 @@
 [website-badge2]: https://img.shields.io/badge/CISCOGEMS-black?style=for-the-badge&logoColor=green&logo=cisco
 [website2]: https://netsec007.github.io/cisco-gems/
 
-<a href="https://isc.sans.edu"><img alt="Internet Storm Center Infocon Status"
-                                                                 src="https://isc.sans.edu/images/status.gif"></a>
+<A HREF="http://www.InternetTrafficReport.com/">
+<IMG ALT="The Internet Traffic Report monitors the flow of data around the world. It then displays a value between zero and 100. Higher values indicate faster and more reliable connections." SRC="http://www.InternetTrafficReport.com/itr-clean.gif" WIDTH="125" HEIGHT="89" BORDER="0"> </A>
 ## Quick Links
 
 * [My Starred Repos](https://netsec007.github.io/my-awesome-stars/)
