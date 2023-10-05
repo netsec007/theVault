@@ -6,7 +6,7 @@
 [github]: https://github.com/netsec007
 [website-badge]: https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=blue&logo=microsoftedge
 [website]: https://www.slackbluetide.com
-[website-badge4]: https://img.shields.io/badge/Email-black?style=for-the-badge&logo=email&logoColor=white
+[website-badge4]: https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white
 [website4]: http://google.com
 [website-badge2]: https://img.shields.io/badge/CISCOGEMS-black?style=for-the-badge&logoColor=green&logo=cisco
 [website2]: https://netsec007.github.io/cisco-gems/
