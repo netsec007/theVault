@@ -21,6 +21,7 @@
 * [My Starred Repos](https://netsec007.github.io/my-awesome-stars/)
 * [Cisco Gems](https://netsec007.github.io/cisco-gems/) - Cisco Commands
 * [Awesom Self-Hosted](https://awesome-selfhosted.net) - Awesome-selfhosted.net
+* [Awesome Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples)
 * [CheatSheets.org](https://www.cheat-sheets.org)
 * [ChaptGPT](chat.openai.com)
 * [Awesome-ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)
@@ -81,6 +82,17 @@
 * [Cheatography](https://cheatography.com) - All the Cheatsheets
 * [Secure and fast GitHub Pages with CloudFlare](https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/)
 * [AC Outlet/Plug Types](https://www.dropbox.com/s/hahicqyz2n8ibpn/Power%20Plug%20Chart%20and%203560X-3750X%20power%20cable%20Cheatsheet.pdf?dl=0)
+
+## HomeLab Blogs
+* [Funky Penguin](https://geek-cookbook.funkypenguin.co.nz)
+* [Awesome Self-Hosted](https://awweso.me)
+* [Self-Host It](https://selfhostit.dev)
+* [Selfh.st](https://selfh.st/articles/)
+* [TechnoTim](https://technotim.live)
+* [SmartHome Beginner](xhttps://www.smarthomebeginner.com/#)
+* [HomeLab Blog Feed](https://ossrss.com)
+* [Void Quark](https://voidquark.com/blog)
+* [NerdyArticles](https://nerdyarticles.com)
 
 ## CheatSheets
 
@@ -163,8 +175,14 @@
 * [DockProm](https://github.com/stefanprodan/dockprom) - Docker Container Monitoring.
 * [Docker Monitoring](https://github.com/uschtwill/docker_monitoring_logging_alerting) - Container monitoring-grafana,prom etc.
 
+# Docker Swarm
+* [Docker Swarm Rocks](https://dockerswarm.rocks)
+* [Docker Swarm Monitoring](https://github.com/YouMightNotNeedKubernetes/dockerswarm-monitoring-guide)
+* 
+
 ## RasPi
 
+* [RaspberryPi Docker Monitor](https://portainer-templates.as93.net/raspberry-pi-docker-monitor)
 * [PiCockPit](https://picockpit.com/raspberry-pi/)
 * [Docker on Arm](https://blog.hypriot.com/getting-started-with-docker-on-your-arm-device/)
 * [Docker on Arm 2](https://github.com/umiddelb/armhf/wiki/Installing,-running,-using-docker-on-armhf-%28ARMv7%29-devices)
