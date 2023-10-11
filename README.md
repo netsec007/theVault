@@ -154,6 +154,7 @@
 * [Self-hosted Cookbook](https://github.com/tborychowski/self-hosted-cookbook)
 * [HomeLabOS](https://homelabos.com/docs/#available-software)
 * [NGINX Proxy](https://github.com/NginxProxyManager/nginx-proxy-manager)
+* [KiwiLabs](https://github.com/Diesel-Net) - Ansible HomeLab Roles
 * [WireGuard](https://github.com/docker/awesome-compose/tree/master/wireguard)
 * [WeeWx](https://weewx.com) - open source weather station.
 * [Wetty](https://github.com/butlerx/wetty) - tty over http.
@@ -178,7 +179,6 @@
 # Docker Swarm
 * [Docker Swarm Rocks](https://dockerswarm.rocks)
 * [Docker Swarm Monitoring](https://github.com/YouMightNotNeedKubernetes/dockerswarm-monitoring-guide)
-* 
 
 ## RasPi
 
