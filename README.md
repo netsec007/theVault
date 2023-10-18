@@ -33,6 +33,7 @@
 * [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
 * [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
 * [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
+* [CronTab Generator](https://crontab-generator.org)
 * [Cron Cheat Sheet](https://healthchecks.io/docs/cron/)
 * [Crontab Guru](https://crontab.guru/every-4-hours)
 * [Cron Configuration](https://www.redhat.com/sysadmin/linux-cron-command)
