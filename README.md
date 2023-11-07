@@ -10,8 +10,8 @@
 [website4]: mailto:admin@slackbluetide.com
 [website-badge5]: https://img.shields.io/badge/Reddit-black?style=for-the-badge&logoColor=orange&logo=reddit
 [website5]: https://reddit.com
-[website-badge2]: https://img.shields.io/badge/CISCO_GEMS-black?style=for-the-badge&logoColor=brightgreen&logo=cisco
-[website2]: https://netsec007.github.io/cisco-gems/
+[website-badge2]: https://img.shields.io/badge/CISCO_CMDS-black?style=for-the-badge&logoColor=brightgreen&logo=cisco
+[website2]: https://netsec007.github.io/cisco-cmds/
 [website-badge3]: https://img.shields.io/badge/CF_Radar-black?style=for-the-badge&logoColor=orange&logo=cloudflare
 [website3]: https://radar.cloudflare.com/
 
