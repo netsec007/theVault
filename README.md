@@ -19,7 +19,7 @@
 ## Quick Links
 
 * [My Starred Repos](https://netsec007.github.io/my-awesome-stars/)
-* [Cisco Gems](https://netsec007.github.io/cisco-gems/) - Cisco Commands
+* [Cisco Gems](https://netsec007.github.io/cisco-cmds/) - Cisco Commands
 * [KASM Apps](https://hub.docker.com/u/kasmweb?utm_referrer=https%3A%2F%2Fkasmweb.com%2F) - DockerHub
 * [Awesom Self-Hosted](https://awesome-selfhosted.net) - Awesome-selfhosted.net
 * [Awesome Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples)
