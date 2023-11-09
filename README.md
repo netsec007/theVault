@@ -20,7 +20,8 @@
 
 * [My Starred Repos](https://netsec007.github.io/my-awesome-stars/)
 * [Cisco Gems](https://netsec007.github.io/cisco-cmds/) - Cisco Commands
-* [KASM Apps](https://hub.docker.com/u/kasmweb?utm_referrer=https%3A%2F%2Fkasmweb.com%2F) - DockerHub
+* [Tailscale](https://tailscale.com)
+* [TailScale Community](https://tailscale.dev)
 * [Awesom Self-Hosted](https://awesome-selfhosted.net) - Awesome-selfhosted.net
 * [Awesome Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples)
 * [CheatSheets.org](https://www.cheat-sheets.org)
@@ -72,6 +73,7 @@
 * [PacketBlog](https://bcumbia2.wordpress.com)
 * [ShellCheck](https://www.shellcheck.net)
 * [free-for.dev](https://free-for.dev/#/)
+* [daily.dev](https://app.daily.dev)
 * [Medium](https://medium.com)
 * [dev.to](https://dev.to)
 * [grep.app](https://grep.app)
@@ -118,6 +120,7 @@
 * [Awesome-dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
 * [awesome-shell](https://github.com/alebcay/awesome-shell) - Awesome command-line frameworks, toolkits, guides and gizmos.
 * [awesome-CodeFace](https://github.com/chrissimpkins/codeface#readme) - Terminal Fonts
+* [VIM Color Schemes](https://vimcolorschemes.com)
 * [dot files on Git](https://dotfiles.github.io)
 * [dot files tutorial](https://github.com/Lissy93/dotfiles)
 * [.bashrc Generator](https://bashrcgenerator.com)
@@ -177,8 +180,9 @@
 * [Docker Cheetsheet 2](https://github.com/eon01/DockerCheatSheet) - Ultimate Docker Cheetsheet.
 * [DockProm](https://github.com/stefanprodan/dockprom) - Docker Container Monitoring.
 * [Docker Monitoring](https://github.com/uschtwill/docker_monitoring_logging_alerting) - Container monitoring-grafana,prom etc.
+* [KASM Apps](https://hub.docker.com/u/kasmweb?utm_referrer=https%3A%2F%2Fkasmweb.com%2F) - DockerHub
 
-# Docker Swarm
+## Docker Swarm
 * [Docker Swarm Rocks](https://dockerswarm.rocks)
 * [Docker Swarm Monitoring](https://github.com/YouMightNotNeedKubernetes/dockerswarm-monitoring-guide)
 
