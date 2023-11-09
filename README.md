@@ -290,4 +290,3 @@
 
 * [bash-guide](https://github.com/Idnan/bash-guide) - Guide to learn bash.
 * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
-* 
