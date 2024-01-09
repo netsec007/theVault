@@ -263,6 +263,7 @@
 * [awesome-self-hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [awesome-shell](https://github.com/alebcay/awesome-shell) - Awesome command-line frameworks, toolkits, guides and gizmos.
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) - Delightful Bash scripts and resources.
+* [awesome podcasts](https://github.com/rShetty/awesome-podcasts)
 * [Awesome-ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)
 * [awesome-mac](https://github.com/iCHAIT/awesome-macOS) - Awesome list of MacOs resources.
 * [awesome-status-pages](https://github.com/Netdog007/f-awesome-status-pages)
