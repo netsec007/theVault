@@ -72,6 +72,7 @@
 * [My Bookmarks](https://sites.google.com/site/bradsbookmarks/home)
 * [PacketBlog](https://bcumbia2.wordpress.com)
 * [ShellCheck](https://www.shellcheck.net)
+* [Badge Genious](https://badgegenius.vercel.app)
 * [free-for.dev](https://free-for.dev/#/)
 * [daily.dev](https://app.daily.dev)
 * [Medium](https://medium.com)
