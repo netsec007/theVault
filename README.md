@@ -46,6 +46,7 @@
 * [ShieldsUp](https://www.grc.com/shieldsup) - Internet security vulnerability profiling services
 * [Breach Directory](https://breachdirectory.org)
 * [HaveIbeenPwned?](https://haveibeenpwned.com)
+* [Debian Setup Guide](https://nerdyarticles.com/debian-server-essentials-setup-configure-and-hardening-your-system/)
 
 #### DNS Tools
 
