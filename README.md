@@ -14,7 +14,7 @@
 [website2]: https://netsec007.github.io/cisco-cmds/
 [website-badge3]: https://img.shields.io/badge/CF_Radar-black?style=for-the-badge&logoColor=orange&logo=cloudflare
 [website3]: https://radar.cloudflare.com/
-[website-badge6]: https://img.shields.io/badge/CheatSheet-black?style=for-the-badge&logoColor=orange&logo=c&style
+[website-badge6]: https://img.shields.io/badge/Cheat_Sheets-black?style=for-the-badge&logoColor=orange&logo=c&style
 [website6]: https://cs.slackbluetide.com
 [website-badge7]: https://img.shields.io/badge/Stars-black?style=for-the-badge&logoColor=FFF000&logo=adventofcode&style
 [website7]: https://star.slackbluetide.com
