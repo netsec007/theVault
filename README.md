@@ -70,7 +70,6 @@
 
 ## Misc Links
 
-* [My Bookmarks](https://sites.google.com/site/bradsbookmarks/home)
 * [PacketBlog](https://bcumbia2.wordpress.com)
 * [ShellCheck](https://www.shellcheck.net)
 * [Badge Genious](https://badgegenius.vercel.app)
