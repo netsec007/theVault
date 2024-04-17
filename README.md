@@ -15,7 +15,7 @@
 [website-badge6]: https://img.shields.io/badge/Cheat_Sheets-black?style=for-the-badge&logoColor=orange&logo=c
 [website6]: https://cs.slackbluetide.com
 [website-badge7]: https://img.shields.io/badge/Stars-black?style=for-the-badge&logoColor=FFF000&logo=adventofcode
-[website7]: https://star.slackbluetide.com
+[website7]: https://stars.slackbluetide.com
 
 ## Quick Links
 
