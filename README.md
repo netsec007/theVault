@@ -1,6 +1,6 @@
 ![Logo](images/github_banner_19.jpg) <A HREF="http://www.InternetTrafficReport.com/">
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> [![GitHub][github-badge]][github] [![Website][website-badge]][website] [![Website4][website-badge4]][website4] [![Website5][website-badge5]][website5] [![Website2][website-badge2]][website2] [![Website3][website-badge3]][website3]
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> [![GitHub][github-badge]][github] [![Website][website-badge]][website] [![Website2][website-badge2]][website2] [![Website6][website-badge6]][website6] [![Website7][website-badge7]][website7] [![Website4][website-badge4]][website4] [![Website5][website-badge5]][website5] [![Website3][website-badge3]][website3]
 
 [github-badge]: https://img.shields.io/badge/GitHub-black?style=for-the-badge&logoColor=blueviolet&logo=github
 [github]: https://github.com/netsec007
@@ -10,11 +10,14 @@
 [website4]: mailto:admin@slackbluetide.com
 [website-badge5]: https://img.shields.io/badge/Reddit-black?style=for-the-badge&logoColor=orange&logo=reddit
 [website5]: https://reddit.com
-[website-badge2]: https://img.shields.io/badge/CISCO_CMDS-black?style=for-the-badge&logoColor=brightgreen&logo=cisco
+[website-badge2]: https://img.shields.io/badge/CiscoCmds-black?style=for-the-badge&logoColor=24FF00&logo=cisco
 [website2]: https://netsec007.github.io/cisco-cmds/
 [website-badge3]: https://img.shields.io/badge/CF_Radar-black?style=for-the-badge&logoColor=orange&logo=cloudflare
 [website3]: https://radar.cloudflare.com/
-
+[website-badge6]: https://img.shields.io/badge/CheatSheet-black?style=for-the-badge&logoColor=orange&logo=c&style=plastic
+[website6]: https://cs.slackbluetide.com
+[website-badge7]: https://img.shields.io/badge/Stars-black?style=for-the-badge&logoColor=FFF000&logo=adventofcode&style=plastic
+[website7]: https://star.slackbluetide.com
 
 ## Quick Links
 
