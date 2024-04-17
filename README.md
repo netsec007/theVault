@@ -10,13 +10,13 @@
 [website4]: mailto:admin@slackbluetide.com
 [website-badge5]: https://img.shields.io/badge/Reddit-black?style=for-the-badge&logoColor=orange&logo=reddit
 [website5]: https://reddit.com
-[website-badge2]: https://img.shields.io/badge/CiscoCmds-black?style=for-the-badge&logoColor=24FF00&logo=cisco
+[website-badge2]: https://img.shields.io/badge/Cisco_Cmds-black?style=for-the-badge&logoColor=24FF00&logo=cisco
 [website2]: https://netsec007.github.io/cisco-cmds/
 [website-badge3]: https://img.shields.io/badge/CF_Radar-black?style=for-the-badge&logoColor=orange&logo=cloudflare
 [website3]: https://radar.cloudflare.com/
-[website-badge6]: https://img.shields.io/badge/CheatSheet-black?style=for-the-badge&logoColor=orange&logo=c&style=plastic
+[website-badge6]: https://img.shields.io/badge/CheatSheet-black?style=for-the-badge&logoColor=orange&logo=c&style
 [website6]: https://cs.slackbluetide.com
-[website-badge7]: https://img.shields.io/badge/Stars-black?style=for-the-badge&logoColor=FFF000&logo=adventofcode&style=plastic
+[website-badge7]: https://img.shields.io/badge/Stars-black?style=for-the-badge&logoColor=FFF000&logo=adventofcode&style
 [website7]: https://star.slackbluetide.com
 
 ## Quick Links
