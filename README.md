@@ -20,7 +20,6 @@
 ## Quick Links
 
 * [It's Foss](https://itsfoss.com)
-* [Daily Dev](https://app.daily.dev)
 * [Tailscale](https://tailscale.com)
 * [TailScale Community](https://tailscale.dev)
 * [Awesom Self-Hosted](https://awesome-selfhosted.net) - Awesome-selfhosted.net
@@ -81,6 +80,8 @@
 * [Badge Genious](https://badgegenius.vercel.app)
 * [Free Dev Tools](https://blog.stackademic.com/100-free-resources-every-web-developer-must-try-2fa9fa499ef5)
 * [free-for.dev](https://free-for.dev/#/)
+* [It's Foss](https://itsfoss.com)
+* [Noted.Lol](hrrps://noted.lol)
 * [daily.dev](https://app.daily.dev)
 * [Medium](https://medium.com)
 * [dev.to](https://dev.to)
