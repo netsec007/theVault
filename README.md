@@ -19,12 +19,13 @@
 
 ## Quick Links
 
-* [My Starred Repos](https://netsec007.github.io/my-awesome-stars/)
-* [Cisco Gems](https://netsec007.github.io/cisco-cmds/) - Cisco Commands
+* [It's Foss](https://itsfoss.com)
+* [Daily Dev](https://app.daily.dev)
 * [Tailscale](https://tailscale.com)
 * [TailScale Community](https://tailscale.dev)
 * [Awesom Self-Hosted](https://awesome-selfhosted.net) - Awesome-selfhosted.net
 * [Awesome Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples)
+* [LinuxServer Io Images](https://docs.linuxserver.io/images/)
 * [CheatSheets.org](https://www.cheat-sheets.org)
 * [ChaptGPT](chat.openai.com)
 * [Awesome-ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)
@@ -52,7 +53,9 @@
 #### DNS Tools
 
 * [CloudFlare Dashboard](https://dash.cloudflare.com)
+* [AdGuard DNS](https://adguard-dns.io/kb/)
 * [ShoDan](www.showdan.io) - Internet intelligence
+* [WebCheck](https://web-check.xyz) - WebSite Analyzer
 * [CIDR CheetSheet](https://systembash.com/cidr-cheatsheet/)
 * [Tcp/ip Ports - IANA](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)
 * [ARUL's Network Lookup Utilities](https://aruljohn.com)
@@ -61,6 +64,7 @@
 * [NsLookup.io](https://www.nslookup.io)
 * [DNSChecker.org](https://dnschecker.org)
 * [Whatsmyip.org Network Tools](https://www.whatsmyip.org)
+* [MxToolBox SuperTool](https://mxtoolbox.com/supertool) - DNS Analyzer
 
 #### DNS Blocklists
 
@@ -71,9 +75,11 @@
 
 ## Misc Links
 
+* [Jim's Garage](https://www.youtube.com/@Jims-Garage/videos) - HomeLab YouTube Channel
 * [PacketBlog](https://bcumbia2.wordpress.com)
 * [ShellCheck](https://www.shellcheck.net)
 * [Badge Genious](https://badgegenius.vercel.app)
+* [Free Dev Tools](https://blog.stackademic.com/100-free-resources-every-web-developer-must-try-2fa9fa499ef5)
 * [free-for.dev](https://free-for.dev/#/)
 * [daily.dev](https://app.daily.dev)
 * [Medium](https://medium.com)
@@ -90,6 +96,7 @@
 * [AC Outlet/Plug Types](https://www.dropbox.com/s/hahicqyz2n8ibpn/Power%20Plug%20Chart%20and%203560X-3750X%20power%20cable%20Cheatsheet.pdf?dl=0)
 
 ## HomeLab Blogs
+
 * [Funky Penguin](https://geek-cookbook.funkypenguin.co.nz)
 * [Awesome Self-Hosted](https://awweso.me)
 * [Self-Host It](https://selfhostit.dev)
