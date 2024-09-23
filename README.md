@@ -132,7 +132,7 @@
 
 ## Bash/Shell/Terminal
 
-*[Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
+* [Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) - Delightful Bash scripts and resources.
 * [Awesome-dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
 * [awesome-shell](https://github.com/alebcay/awesome-shell) - Awesome command-line frameworks, toolkits, guides and gizmos.
