@@ -81,7 +81,7 @@
 * [Free Dev Tools](https://blog.stackademic.com/100-free-resources-every-web-developer-must-try-2fa9fa499ef5)
 * [free-for.dev](https://free-for.dev/#/)
 * [It's Foss](https://itsfoss.com)
-* [Noted.Lol](hrrps://noted.lol)
+* [Noted.Lol](https://noted.lol)
 * [daily.dev](https://app.daily.dev)
 * [Medium](https://medium.com)
 * [dev.to](https://dev.to)
@@ -110,11 +110,17 @@
 
 ## CheatSheets
 
+* [tldr](https://tldr.inbrowser.app)
+* [DevDocks](https://devdocs.io)
+* [Rico's CheatSheets](https://devhints.io)
 * [CheatSheets.org](https://www.cheat-sheets.org)
+* [OWASP CheatSheets](https://cheatsheetseries.owasp.org/Glossary.html)
+* [GNU/Linux.guru](https://gnulinux.guru/?bash)
 * [Python](https://www.pythoncheatsheet.org/)
 * [Markdown](https://www.markdownguide.org/cheat-sheet/)
 * [Git](https://education.github.com/git-cheat-sheet-education.pdf)
 * [Docker](https://dockerlabs.collabnix.com/docker/cheatsheet/)
+* [Linux Commands](https://medium.com/@rahuldesharaj92/basic-linux-commands-used-by-devops-engineers-in-day-to-day-activities-29593253f66b)
 * [Linux Directory Structure](https://dev.to/tiffanie_boreux/linux-cheatsheet-directory-structure-and-important-files-paths-4ke6)
 * [Linux Command Line](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
 * [Linux Cheat Sheet](https://dev.to/rajani103/linux-cheat-sheet-1ied)
@@ -126,6 +132,7 @@
 
 ## Bash/Shell/Terminal
 
+*[Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) - Delightful Bash scripts and resources.
 * [Awesome-dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
 * [awesome-shell](https://github.com/alebcay/awesome-shell) - Awesome command-line frameworks, toolkits, guides and gizmos.
