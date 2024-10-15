@@ -25,7 +25,6 @@
 * [Awesom Self-Hosted](https://awesome-selfhosted.net) - Awesome-selfhosted.net
 * [Awesome Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples)
 * [LinuxServer Io Images](https://docs.linuxserver.io/images/)
-* [CheatSheets.org](https://www.cheat-sheets.org)
 * [ChaptGPT](chat.openai.com)
 * [Awesome-ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)
 * [theNetworkStack](https://thenetworkstack.com/)
@@ -39,7 +38,6 @@
 * [Cron Cheat Sheet](https://healthchecks.io/docs/cron/)
 * [Crontab Guru](https://crontab.guru/every-4-hours)
 * [Cron Configuration](https://www.redhat.com/sysadmin/linux-cron-command)
-* [Linux Cheat Sheet](https://dev.to/rajani103/linux-cheat-sheet-1ied)
 * [Linux Man Pages](https://man7.org/linux/man-pages/index.html)
 * [GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [the book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
@@ -89,10 +87,6 @@
 * [Modern Linux Tools](https://github.com/ibraheemdev/modern-unix)
 * [CLI Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6) - A collection of 50+ CLI Tools.
 * [Terminals Are Sezy](https://github.com/k4m4/terminals-are-sexy/blob/master/readme.md)
-* [Regex CheatSheet 1](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
-* [Regex Cheatsheet 2](https://www.petefreitag.com/cheatsheets/regex/)
-* [VIM Basic Commands](https://m4xshen.me/posts/vim-basic-commands/)
-* [Cheatography](https://cheatography.com) - All the Cheatsheets
 * [Secure and fast GitHub Pages with CloudFlare](https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/)
 * [AC Outlet/Plug Types](https://www.dropbox.com/s/hahicqyz2n8ibpn/Power%20Plug%20Chart%20and%203560X-3750X%20power%20cable%20Cheatsheet.pdf?dl=0)
 
@@ -110,29 +104,13 @@
 
 ## CheatSheets
 
-* [tldr](https://tldr.inbrowser.app)
-* [DevDocks](https://devdocs.io)
-* [Rico's CheatSheets](https://devhints.io)
-* [CheatSheets.org](https://www.cheat-sheets.org)
-* [OWASP CheatSheets](https://cheatsheetseries.owasp.org/Glossary.html)
-* [GNU/Linux.guru](https://gnulinux.guru/?bash)
-* [Python](https://www.pythoncheatsheet.org/)
-* [Markdown](https://www.markdownguide.org/cheat-sheet/)
-* [Git](https://education.github.com/git-cheat-sheet-education.pdf)
-* [Docker](https://dockerlabs.collabnix.com/docker/cheatsheet/)
-* [Linux Commands](https://medium.com/@rahuldesharaj92/basic-linux-commands-used-by-devops-engineers-in-day-to-day-activities-29593253f66b)
-* [Linux Directory Structure](https://dev.to/tiffanie_boreux/linux-cheatsheet-directory-structure-and-important-files-paths-4ke6)
-* [Linux Command Line](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
-* [Linux Cheat Sheet](https://dev.to/rajani103/linux-cheat-sheet-1ied)
-* [RegEx](https://www.rexegg.com/regex-quickstart.html)
-* [Linux/Unix Permission](https://www.thegeekdiary.com/linux-file-directory-permissions-cheat-sheet/)
-* [ChatGPT](https://quickref.me/chatgpt.html)
-* [TheList](https://dev.to/jon_snow789/introducing-50-carefully-curated-cheat-sheets-youll-ever-need-32fj)
-* [OverAPI](https://overapi.com) - Collecting All The Cheat Sheets
-
+* [Dev-Cheat-Sheets](https://cs.slackbluetide.com/)
+  
 ## Bash/Shell/Terminal
 
 * [Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
+* [bash-guide](https://github.com/Idnan/bash-guide) - Guide to learn bash.
+* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) - Delightful Bash scripts and resources.
 * [Awesome-dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
 * [awesome-shell](https://github.com/alebcay/awesome-shell) - Awesome command-line frameworks, toolkits, guides and gizmos.
@@ -232,8 +210,6 @@
 * [Another CIDR Chart](https://oav.net/mirrors/cidr.html)
 * [Subnet Calculator](https://www.subnet-calculator.com/cidr.php)
 * [Default Network Timers](https://routerjockey.com/2015/08/10/well-known-intervals)
-* [NMAP CheatSheet](https://highon.coffee/blog/nmap-cheat-sheet/)
-* [Another NMAP CheatSheet](https://cdn.comparitech.com/wp-content/uploads/2019/06/Nmap-Cheat-Sheet-1.webp)
 * [Cisco Bug Search Tool](https://bst.cloudapps.cisco.com/bugsearch)
 * [Cisco IOS Master Command Reference](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/mcl/allreleasemcl/all-book.html)
 * [Switchport and Interface Troubleshooting](https://www.cisco.com/c/en/us/support/docs/switches/catalyst-6500-series-switches/12027-53.html)
@@ -307,5 +283,4 @@
 
 ## Guides
 
-* [bash-guide](https://github.com/Idnan/bash-guide) - Guide to learn bash.
-* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
+
