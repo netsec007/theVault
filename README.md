@@ -17,7 +17,7 @@
 [website-badge7]: https://img.shields.io/badge/Stars-black?style=for-the-badge&logoColor=FFF000&logo=adventofcode
 [website7]: https://stars.slackbluetide.com
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Quick Links
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Quick Links
 
 * [It's Foss](https://itsfoss.com)
 * [Tailscale](https://tailscale.com)
