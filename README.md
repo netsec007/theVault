@@ -1,6 +1,6 @@
 ![Logo](images/github_banner_19.jpg) <A HREF="http://www.InternetTrafficReport.com/">
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> [![GitHub][github-badge]][github] [![Website][website-badge]][website] [![Website2][website-badge2]][website2] [![Website6][website-badge6]][website6] [![Website7][website-badge7]][website7] [![Website4][website-badge4]][website4] [![Website3][website-badge3]][website3]
+[![GitHub][github-badge]][github] [![Website][website-badge]][website] [![Website2][website-badge2]][website2] [![Website6][website-badge6]][website6] [![Website7][website-badge7]][website7] [![Website4][website-badge4]][website4] [![Website3][website-badge3]][website3]
 
 [github-badge]: https://img.shields.io/badge/GitHub-black?style=for-the-badge&logoColor=blueviolet&logo=github
 [github]: https://github.com/netsec007
@@ -17,7 +17,7 @@
 [website-badge7]: https://img.shields.io/badge/Stars-black?style=for-the-badge&logoColor=FFF000&logo=adventofcode
 [website7]: https://stars.slackbluetide.com
 
-## Quick Links
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> # Quick Links
 
 * [It's Foss](https://itsfoss.com)
 * [Tailscale](https://tailscale.com)
