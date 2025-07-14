@@ -50,7 +50,7 @@
 #### DNS Tools
 
 * [CloudFlare Dashboard](https://dash.cloudflare.com)
-* [AdGuard DNS](https://adguard-dns.io/kb/)
+* [IpCheck](https://ipcheck.ing/#/)* [AdGuard DNS](https://adguard-dns.io/kb/)
 * [ShoDan](www.showdan.io) - Internet intelligence
 * [WebCheck](https://web-check.xyz) - WebSite Analyzer
 * [CIDR CheetSheet](https://systembash.com/cidr-cheatsheet/)
@@ -169,6 +169,7 @@
 ## Docker
 
 * [Composerize](https://www.composerize.com)
+* [Docker Compose Reference](https://docs.docker.com/reference/compose-file/services/)
 * [LinuxServer.io](https://linuxserver.io)
 * [DockerHub](https:dockerhub.com)
 * [Portainer Images](https://portainer-templates.as93.net)
