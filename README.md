@@ -50,7 +50,8 @@
 #### DNS Tools
 
 * [CloudFlare Dashboard](https://dash.cloudflare.com)
-* [IpCheck](https://ipcheck.ing/#/)* [AdGuard DNS](https://adguard-dns.io/kb/)
+* [IpCheck](https://ipcheck.ing/#/)
+* [AdGuard DNS](https://adguard-dns.io/kb/)
 * [ShoDan](www.showdan.io) - Internet intelligence
 * [WebCheck](https://web-check.xyz) - WebSite Analyzer
 * [CIDR CheetSheet](https://systembash.com/cidr-cheatsheet/)
